@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width = device-width">
+    <title>AJM26</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <meta name="description" content="AJM26 | Beginner Code Writer">
+    <link rel="icon" type="image/x-icon" href="images/hyper.png">
+
+</head>
+
+<body>
+
+    <div class="blurs">
+        <div id="blur1"></div>
+        <div id="blur2"></div>
+    </div>
+
+    <div class="background">
+        <ul class="squares"></ul>
+    </div>
+
+    <div class="main">
+        <img src="images/hyper.svg" class="hyperimg">
+        <div class="greet">
+            <h1 class="hyper">AJM26</h1>
+            <h2>Small Code Beginner hoping to advance</h2>
+        </div>
+    </div>
+    <div class="content">
+        <div id="main">
+            <i>
+                <h1>
+                    <center>Hello!</center>
+                </h1>
+            </i>
+            <h2>Who am I?</h2>
+            <p>Hi, I'm AJM26, a small coder that takes up coding and building website as a hobby. I've skilled at using
+                Python and HTML, but I am on my way to learning Javascript and CSS. My projects are built on <a
+                    href="https://replit.com" target="_blank">Replit</a>.
+
+
+
+                </li>
+                </ul>
+        </div>
+        <div style="padding: 5vw 0 0 0"></div>
+    </div>
+    <div class="navbar">
+        <a href="#main">Who I am!</a>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
